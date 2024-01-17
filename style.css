@@ -1,12 +1,47 @@
 * {
-    padding: none;
-    margin: none;
-    box-sizing: none;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    background-color: #6f7d8cff;
+    background-color: #191716ff;
     font-family: 'open sans', sans-serif;
+}
+
+.header {
+    background-color: rgb(3, 3, 3);
+    padding: 5px;
+    margin: 0;
+}
+
+.container {
+    list-style: none;
+    color: #e2e2e2ff;
+}
+
+.container h1 {
+    font-family: 'playfair display';
+    color: #6496c0ff;
+}
+
+.container img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.description {
+    padding: 5px;
+    color: #e2e2e2ff;
+}
+
+.abilites {
+    padding: 5px;
+    color: #e2e2e2ff;
+}
+
+.footer {
+    padding: 5px;
+    color: #e2e2e2ff;
 }
 
 
