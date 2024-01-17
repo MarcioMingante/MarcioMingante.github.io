@@ -1,4 +1,13 @@
+* {
+    padding: none;
+    margin: none;
+    box-sizing: none;
+}
 
+body {
+    background-color: #6f7d8cff;
+    font-family: 'open sans', sans-serif;
+}
 
 
 
